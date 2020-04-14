@@ -1,0 +1,17 @@
+body{
+margin: 0;
+
+}
+
+h1,p {
+    text-align: center;
+}
+
+.mp{
+    margin: auto;
+    width: 80%;
+}
+
+.mp img{
+    width: 32%;
+}
